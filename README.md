@@ -1,0 +1,2 @@
+# Baladorim.Bot
+Discord Bot
